@@ -1,0 +1,15 @@
+C:\C#Repository\GameConsolesApp\GameConsolesApp\bin\Debug\GameConsolesApp.exe.config
+C:\C#Repository\GameConsolesApp\GameConsolesApp\bin\Debug\GameConsolesApp.exe
+C:\C#Repository\GameConsolesApp\GameConsolesApp\bin\Debug\GameConsolesApp.pdb
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\GameConsolesApp.csprojAssemblyReference.cache
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\MainWindow.g.cs
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\App.g.cs
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\GameConsolesApp_MarkupCompile.cache
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\GameConsolesApp_MarkupCompile.lref
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\MainWindow.baml
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\GameConsolesApp.g.resources
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\GameConsolesApp.Properties.Resources.resources
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\GameConsolesApp.csproj.GenerateResource.cache
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\GameConsolesApp.csproj.CoreCompileInputs.cache
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\GameConsolesApp.exe
+C:\C#Repository\GameConsolesApp\GameConsolesApp\obj\Debug\GameConsolesApp.pdb
